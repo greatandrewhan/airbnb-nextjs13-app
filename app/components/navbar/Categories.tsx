@@ -17,7 +17,7 @@ import {
 } from "react-icons/gi";
 import { MdOutlineVilla } from "react-icons/md";
 import { FaSkiing } from "react-icons/fa";
-import CategoryBox from "./CategoryBox";
+import CategoryBox from "../CategoryBox";
 import { usePathname, useSearchParams } from "next/navigation";
 
 export const categories = [
